@@ -2,7 +2,7 @@
 <br>
 
 <h3 align="center">🙋‍♂ ️About Me 🙋‍♂️️</h3>
-<p align="center">Hello! My nams is JongJae Park!</p>
+<p align="center">Hello! My nams is JongJae Park! I Want to be Good Developer!</p>
 <br>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <br>
