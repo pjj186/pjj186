@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=250&section=header&text=JongJaePark&fontSize=80&animation=fadeIn)
 
 
+
+
 <h3 align="center">🙋‍♂ ️About Me 🙋‍♂️️</h3>
 <p align="center">안녕하세요! 제 이름은 박종재입니다! 저는 다양한 취미를 가지는걸 좋아하고, 관심있는 분야가 많습니다! 계속 성장하고 새로운 것을 시도하는 개발자가 되고 싶습니다!</p>
 
@@ -14,9 +16,12 @@
 
 
 <h3 align="center">🚗 Blog & SNS 🚗</h3>
-<p>
+
+<p align="center">
 <a href="https://www.instagram.com/ppi_je_je/"><img src="https://img.shields.io/badge/Instagram-red?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://velog.io/@pjj186"><img src="https://img.shields.io/badge/Velog-brightgreen?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 </p>
+
+
 
 ![footer](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=250&section=footer&fontSize=80&fontAlignY=60)
