@@ -24,6 +24,14 @@
 <br>
 <hr>
 
+<h3 align="center">👓GitHub Stats👓</h3>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjj186&show_icons=true&theme=github_dark)
 
 <hr>
+
+<h3 align="center">🍒Most Used Languages🍒</h3>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjj186&layout=compact&theme=github_dark)
+
+
