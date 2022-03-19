@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=250&section=header&text=JongJaePark&fontSize=80&animation=fadeIn)
-<br>
+
 
 <h3 align="center">🙋‍♂ ️About Me 🙋‍♂️️</h3>
 <p align="center">Hello! My nams is JongJae Park! I Want to be Good Developer!</p>
@@ -21,5 +20,3 @@
 <a href="https://velog.io/@pjj186"><img src="https://img.shields.io/badge/Velog-brightgreen?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 </p>
 <br>
-
-![footer](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=250&section=footer&fontSize=80&fontAlignY=60)
