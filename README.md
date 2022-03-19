@@ -13,7 +13,19 @@
 <br>
 <img src="https://img.shields.io/badge/Node.js-brightgreen?style=flat-square&logo=Node.js&logoColor=white"/>  <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=HTML5&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=CSS3&logoColor=white"/>
 </p>
-<br>
+
+<hr>
+
+<h3 align="center">👓 GitHub Stats 👓</h3>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjj186&show_icons=true&theme=github_dark)
+
+<hr>
+
+<h3 align="center">🍒 Most Used Languages🍒 </h3>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjj186&layout=compact&theme=github_dark)
+
 <hr>
 <h3 align="center">🚗 Blog & SNS 🚗</h3>
 <br>
@@ -21,17 +33,4 @@
 <a href="https://www.instagram.com/ppi_je_je/"><img src="https://img.shields.io/badge/Instagram-red?style=flat-square&logo=Instagram&logoColor=white"/></a>  
 <a href="https://velog.io/@pjj186"><img src="https://img.shields.io/badge/Velog-brightgreen?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 </p>
-<br>
-<hr>
-
-<h3 align="center">👓GitHub Stats👓</h3>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjj186&show_icons=true&theme=github_dark)
-
-<hr>
-
-<h3 align="center">🍒Most Used Languages🍒</h3>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjj186&layout=compact&theme=github_dark)
-
 
