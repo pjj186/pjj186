@@ -30,7 +30,8 @@
 <h3 align="center">🚗 블로그 & SNS 🚗</h3>
 <br>
 <p align="center">
-<a href="https://www.instagram.com/ppi_je_je/"><img src="https://img.shields.io/badge/Instagram-red?style=flat-square&logo=Instagram&logoColor=white"/></a>  
-<a href="https://velog.io/@pjj186"><img src="https://img.shields.io/badge/Velog-brightgreen?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+Instargram : <a href="https://www.instagram.com/ppi_je_je/"><img src="https://img.shields.io/badge/Instagram-red?style=flat-square&logo=Instagram&logoColor=white"/></a> 
 </p>
-
+<p align="center">
+Blog : <a href="https://velog.io/@pjj186"><img src="https://img.shields.io/badge/Velog-brightgreen?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+</p>
