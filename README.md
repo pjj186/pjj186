@@ -1,7 +1,7 @@
 
 
 <h3 align="center">🙋‍♂ ️About Me 🙋‍♂️️</h3>
-<p align="center">편식하며 배우지 말장.</p>
+<p align="center">No Gain No Pain</p>
 <br>
 <hr>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
