@@ -11,7 +11,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/>  <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/>  <img src="https://img.shields.io/badge/ReactNative-blue?style=flat-square&logo=React&logoColor=white"/>  <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white"/>  <img src="https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=MongoDB&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/Node.js-brightgreen?style=flat-square&logo=Node.js&logoColor=white"/>  <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=HTML5&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-brightgreen?style=flat-square&logo=Node.js&logoColor=white"/>  <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=HTML5&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-yellow?style=flat-square&logo=CSS3&logoColor=white"/>
 </p>
 
 <hr>
