@@ -4,7 +4,7 @@
 <p align="center">No Gain No Pain 😑</p>
 <br>
 <hr>
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="center">😍 Tech Stack 😍</h3>
 <br>
 <p align="center">제가 사랑하는 언어 / 기술들 입니다.</p>
 <br>
