@@ -6,8 +6,6 @@
 <hr>
 <h3 align="center">😍 Tech Stack 😍</h3>
 <br>
-<p align="center">제가 사랑하는 언어 / 기술들 입니다.</p>
-<br>
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/>  <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/>  <img src="https://img.shields.io/badge/ReactNative-blue?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=MongoDB&logoColor=white"/>
 <br>
