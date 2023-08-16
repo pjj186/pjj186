@@ -1,7 +1,7 @@
 
 
 <h3 align="center">🙋‍♂ ️About Me 🙋‍♂️️</h3>
-<p align="center">No Gain No Pain 😑</p>
+<p align="center">😑</p>
 <br>
 <hr>
 <h3 align="center">😍 Tech Stack 😍</h3>
