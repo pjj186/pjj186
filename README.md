@@ -1,32 +1,9 @@
+Hello :)
 
+<hr/>
 
-<h3 align="center">🙋‍♂ ️About Me 🙋‍♂️️</h3>
-<p align="center">😑</p>
-<br>
-<hr>
-<h3 align="center">😍 Tech Stack 😍</h3>
-<br>
-<p align="center">
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/>  <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/>  <img src="https://img.shields.io/badge/ReactNative-blue?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=MongoDB&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/Node.js-brightgreen?style=flat-square&logo=Node.js&logoColor=white"/>  <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=HTML5&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-white?style=flat-square&logo=Next.js&logoColor=black"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=black"/>
-</p>
+<h3>❤️</h3>
 
-<hr>
-
-<h3 align="center">👓 GitHub Stats 👓</h3>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjj186&show_icons=true&theme=github_dark)
-
-<hr>
-
-<h3 align="center">🍒 Most Used Languages🍒 </h3>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjj186&layout=compact&theme=github_dark)
-
-<hr>
-<h3 align="center">🚗 블로그 🚗</h3>
-<br>
-<p align="center">
-<a href="https://velog.io/@pjj186"><img src="https://img.shields.io/badge/Velog-brightgreen?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=react,vue,nextjs,nodejs)](https://skillicons.dev)
