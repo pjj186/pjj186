@@ -1,9 +1,7 @@
-Hello :)
+<p align="center">Hello :)</p>
 
 <hr/>
 
-<h3>❤️</h3>
+<h1>🛠️ Tools</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
-<br/>
-[![My Skills](https://skillicons.dev/icons?i=react,vue,nextjs,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vue,nextjs,nodejs,docker,github,gitlab,tailwind&perline=4)](https://skillicons.dev)
