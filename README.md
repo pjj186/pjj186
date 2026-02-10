@@ -1,4 +1,4 @@
-<p align="center">Hello :)</p>
+<p>Hello :) I'm Frontend Engineer</p>
 
 <hr/>
 
